@@ -1,4 +1,4 @@
-def test_first():
+def test_1():
     assert 11>2
 
 def test_second():
